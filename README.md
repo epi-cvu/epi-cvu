@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">Currently a developper at Epiconcept in the infrastructure team</h3>
+<h3 align="center">Currently an intern developper at Epiconcept in the infrastructure team</h3>
 
-- 🔭 I’m currently working on **Synthetic Data Generation**
+- 🔭 I’m currently working on **Databases Optimisation**
 
 - 📫 How to reach me **cvu@epiconcept.fr**
 
