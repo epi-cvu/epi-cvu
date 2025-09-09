@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cvu@epiconcept.fr**
 
-- ⚡ Fun fact **I like Lego**
+- ⚡ Fun fact **Nothing much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
