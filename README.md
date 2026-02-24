@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">Currently a Python developper at Epiconcept in the Technical Comittee team</h3>
 
-- 🔭 I’m currently working on **DOFI**
+- 🔭 I’m currently working on **AI**
 
 - 📫 How to reach me **cvu@epiconcept.fr**
 
